@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pittner.github.io/vision-board-prompts/sitemap.xml
