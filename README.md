@@ -6,6 +6,8 @@ Tested on Midjourney, DALL·E, Gemini / Nano Banana and Stable Diffusion. MIT li
 
 📄 **Readable web version:** https://pittner.github.io/vision-board-prompts/
 
+🖼 **Already generated your images?** Drop them into the [free browser vision board & wallpaper maker](https://visionboard.bemooore.com/free-vision-board-maker/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_readme&utm_content=readme_top) - it arranges your own images into a board plus a matching phone lock-screen wallpaper. No signup, nothing uploaded, runs entirely in your browser.
+
 ---
 
 ## How to use these prompts
@@ -19,6 +21,8 @@ Tested on Midjourney, DALL·E, Gemini / Nano Banana and Stable Diffusion. MIT li
 ```
 — cohesive editorial style, warm natural light, shallow depth of field, no text, no watermark, 4:5
 ```
+
+6. **Assemble the images into an actual board.** Six loose PNGs in a downloads folder are not a vision board. Arrange them into one board and a matching phone lock-screen wallpaper with the [free vision board maker](https://visionboard.bemooore.com/free-vision-board-maker/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_readme&utm_content=readme_step6) (browser-based, no signup, your photos never leave your device), or lay them out in any tool you already use.
 
 ---
 
@@ -157,6 +161,8 @@ Prompts for rebuilding an identity, not for winning anyone back — the images p
 ## Don't want to prompt 48 times?
 
 This pack is the manual route and it works — it just takes an evening.
+
+Already have the images? The [free vision board & wallpaper maker](https://visionboard.bemooore.com/free-vision-board-maker/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_readme&utm_content=readme_bottom) turns them into a finished board and a phone lock-screen in a couple of minutes. Free, no account, nothing uploaded.
 
 If you'd rather type one goal and get a finished board, a phone wallpaper and one concrete next step in about five minutes, that's what [**VisionBoard**](https://visionboard.bemooore.com/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_readme) does. Free preview first, €8.99 one-time for the full board — no subscription, no account needed for the preview.
 
