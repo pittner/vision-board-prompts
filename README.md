@@ -188,3 +188,7 @@ New categories are welcome — open a pull request adding a section with 6 promp
 MIT — use commercially, remix, ship in your own tool. Attribution appreciated, not required.
 
 Images you generate belong to you; check your image model's own terms for commercial use.
+
+## More free tools
+
+- [40 free AI prompts for habits that survive a missed day](https://pittner.github.io/habit-prompts/)
