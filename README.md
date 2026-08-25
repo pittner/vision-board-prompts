@@ -192,3 +192,7 @@ Images you generate belong to you; check your image model's own terms for commer
 ## More free tools
 
 - [40 free AI prompts for habits that survive a missed day](https://pittner.github.io/habit-prompts/)
+
+## Prefer paper?
+
+Six free MIT-licensed **[printable vision board templates](https://pittner.github.io/vision-board-templates/)** - print A4 or US Letter straight from the browser, no signup, no e-mail, no watermark.
