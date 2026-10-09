@@ -1,6 +1,6 @@
 # Vision Board Prompt Pack
 
-**48 free, copy-paste AI image prompts for building a vision board** — career, money, health, love, travel, home, fresh start and monthly reset.
+**54 free, copy-paste AI image prompts for building a vision board** — career, money, health, love, travel, home, fresh start, monthly reset and a 2027 year-ahead set.
 
 Tested on Midjourney, DALL·E, Gemini / Nano Banana and Stable Diffusion. MIT licensed, no signup, no tracking.
 
@@ -156,9 +156,29 @@ Prompts for rebuilding an identity, not for winning anyone back — the images p
 48. A short handwritten list of three priorities on a plain card, pinned above a desk, morning light, no readable text
 ```
 
+## 9. 2027: the year ahead
+
+Six images that match the free [printable 2027 vision board template](https://pittner.github.io/2027-vision-board-template/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_2027&utm_content=readme_s9): the first step before 1 January, proof by 31 March, the milestone you celebrate, and what you leave behind.
+
+```
+49. A paper wall calendar open on January, the first week already planned in pencil, morning light on a kitchen wall, close-up, no readable text
+
+50. Someone writing one sentence on a plain card at a quiet table on New Year's Eve, one candle, city fireworks blurred through the window, cinematic, no readable text
+
+51. A person doing the very first step of [goal] at [place] on a crisp January morning, breath visible in cold air, candid documentary photography, no text
+
+52. A desk at the end of March with the first proof of [goal] on it: [proof object], open notebook, warm side light, overhead flat lay, no readable text
+
+53. A warm summer evening in [city] celebrating [milestone] with two close friends, string lights, genuine laughter, film photography look
+
+54. A small cardboard box by the front door holding the things you are leaving behind this year, lid half closed, bright calm hallway, symbolic, minimal, no text
+```
+
+Want it on your phone instead? Type one 2027 goal and get a [1080x1920 lock-screen wallpaper](https://visionboard.bemooore.com/2027-vision-board-wallpaper/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_2027&utm_content=readme_s9_wallpaper), free, no signup.
+
 ---
 
-## Don't want to prompt 48 times?
+## Don't want to prompt 54 times?
 
 This pack is the manual route and it works — it just takes an evening.
 
@@ -195,4 +215,6 @@ Images you generate belong to you; check your image model's own terms for commer
 
 ## Prefer paper?
 
-Six free MIT-licensed **[printable vision board templates](https://pittner.github.io/vision-board-templates/)** - print A4 or US Letter straight from the browser, no signup, no e-mail, no watermark.
+Seven free MIT-licensed **[printable vision board templates](https://pittner.github.io/vision-board-templates/)** - print A4 or US Letter straight from the browser, no signup, no e-mail, no watermark.
+
+Planning next year? The **[2027 vision board template](https://pittner.github.io/2027-vision-board-template/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_2027&utm_content=readme_paper)** has one box per quarter, a first step before 1 January and a proof-by date for each goal.
