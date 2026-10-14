@@ -176,6 +176,8 @@ Six images that match the free [printable 2027 vision board template](https://pi
 
 Want it on your phone instead? Type one 2027 goal and get a [1080x1920 lock-screen wallpaper](https://visionboard.bemooore.com/2027-vision-board-wallpaper/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_2027&utm_content=readme_s9_wallpaper), free, no signup.
 
+Making boards together? The free [vision board party kit](https://pittner.github.io/vision-board-party-kit/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_party&utm_content=readme_s9) has 12 printable prompt cards, a 2-hour agenda and an invitation you can copy.
+
 ---
 
 ## Don't want to prompt 54 times?
@@ -218,3 +220,5 @@ Images you generate belong to you; check your image model's own terms for commer
 Seven free MIT-licensed **[printable vision board templates](https://pittner.github.io/vision-board-templates/)** - print A4 or US Letter straight from the browser, no signup, no e-mail, no watermark.
 
 Planning next year? The **[2027 vision board template](https://pittner.github.io/2027-vision-board-template/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_2027&utm_content=readme_paper)** has one box per quarter, a first step before 1 January and a proof-by date for each goal.
+
+Hosting a vision board night? The **[vision board party kit](https://pittner.github.io/vision-board-party-kit/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_party&utm_content=readme_paper)** adds 12 printable prompt cards with a QR code to the free maker, a 2-hour agenda, an invitation and a supply list.
