@@ -178,6 +178,8 @@ Want it on your phone instead? Type one 2027 goal and get a [1080x1920 lock-scre
 
 Making boards together? The free [vision board party kit](https://pittner.github.io/vision-board-party-kit/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_party&utm_content=readme_s9) has 12 printable prompt cards, a 2-hour agenda and an invitation you can copy.
 
+Rather pick one word than six images? [48 word of the year 2027 ideas](https://pittner.github.io/word-of-the-year-2027/?utm_source=github&utm_medium=referral&utm_campaign=prompt_pack_word&utm_content=readme_s9), each with a first step and a free lock screen.
+
 ---
 
 ## Don't want to prompt 54 times?
